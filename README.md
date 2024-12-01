@@ -4,7 +4,7 @@
 - Andrés Banquez Cabarcas - 1001021432
 - Estudiante de BIOINGENIERIA
 - Video entrega 2: https://youtu.be/Uo1ginn8FY4?si=w0IrUfNV8dToqRDO 
-video entrega final : https://www.youtube.com/watch?v=XSFrrbd-FBc
+- video entrega final : https://www.youtube.com/watch?v=XSFrrbd-FBc
 
 
  ## Resumen
